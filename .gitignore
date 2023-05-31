@@ -1,2 +1,10 @@
 # config file
 config.py
+
+#venv
+omenv/
+omenv
+
+#pycache
+__pycache__
+__pycache__/
